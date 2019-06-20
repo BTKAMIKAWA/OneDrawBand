@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  
+    <environment include="Development">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <link rel="stylesheet" href="~/css/site.css"/>
+    </environment>
+    <environment exclude="Development">
+        
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css" <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous">s
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+
+    <div class="wrapper">
+        <nav class="navbar" id="all" style="background-color: #828282">
+            <a class="navbar" id="logo" ><img src="~/images/microphone.jpg" style width="70" alt=""></a>
+            <a class="navbar-brand bar" style="font-size: 20px"; href="/">Home</a>
+            <a class="navbar-brand bar" style="font-size: 20px"; href="/discography">Discography</a>
+            <a class="navbar-brand bar" style="font-size: 20px"; href="/merchandise">Merchandise</a> 
+            <a class="navbar-brand bar" style="font-size: 20px"; href="/contact">Contact</a>
+            <div class="checkout">
+                <div style="display: inline-block">
+                    <span data-toggle="modal" data-target="#cart"><img src="~/images/cart2.png" style width="35" alt=""></span>
+                </div>                
+                <div style="display: inline-block">
+                    <h6 id="text">
+                        (<span class="items"></span> items)
+                        <span id="total">  </span>
+                    </h6>
+                </div>
+            </div>
+        </nav>
+    </div><br><br>
+</head>
+    
+<body>
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+
+    <environment include="Development">
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+
+    <div class="modal" id="cart" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title">Shopping Cart</h3>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">   
+                    <table class="table table-hover">
+                        <thead class="thead-inverse">
+                            <tr>
+                                <th class="title">Id</th>
+                                <th class="title">Item</th>
+                                <th class="title">Price</th>
+                                <th class="title">Qty</th>
+                                <th class="text-right title">Sub Total</th>
+                            </tr>
+                        </thead>
+                        <tbody id="output">
+                        </tbody>
+                    </table>  
+                </div>               
+                <br><div class="modal-footer"><a class="btn checkout" href="/checkout">Checkout</a>
+                </div>   
+
+                                                   
+            </div>
+        </div>
+    </div>
+
+    
+
+</body>
+</html>

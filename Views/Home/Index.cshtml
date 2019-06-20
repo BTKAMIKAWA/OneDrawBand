@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>One Draw</title>
+  
+</head>
+<body>
+  <div class="slideshow-container">
+
+    <!-- Full-width images with number and caption text -->
+    <div class="mySlides">
+      <img src="~/images/group.jpg"  style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <img src="~/images/group2.jpg"  style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <img src="~/images/IMG_7716.jpg"  style="width:100%">
+    </div>
+  </div><br>
+  <div style="width:100%; border-bottom:2px solid black"></div><br><br>
+  <h3>Biography:</h3>
+  <p class="wrapper">OneDraw started in 1997, back then we were a punk band called Substandard. We spent a couple years pissing off all of our wonderful neighbors that lived on Rose St. in Bellflower, but didnt do much more than that. Back then the all night drunken jam crew consisted of Mike B.-Guitar, Zandy-Drums, Mike Parker-Bass, and Jason Blackwell-Vocals. Around 2000 Zandy and I (Mike B.) found ourselves listening to nothing but roots/dub reggae music (it was like a friggin drug). We had a small assortment of original tunes we put together and were jamming with a couple other guys when we got our first offer to play a show (10/18/00 at The Cowboy Boogie w/ Devise). This is where things got funny, a month before the show the bass player got put in prison and the singer got hit with a bad case of stage fright. So we called our old Substandard bass player Mike Parker who had just quit playing in a punk band called "Fallout". Now the only thing missing was a singer who we found through our friend Jake, he says, "I know this guy thats into reggae, and he sings the national anthem at the Angels game every year". We met up with Matt Roberts at bar in Long Beach and laid it all out on the table "We have a show in a month...we have about 6-8 songs ready to go, but we have no lyrics... Somehow Matt said yes, and that was that. We practiced non-stop for that month before our first show. When that night finally arrived we played a pretty fuckin good set. After that show we got an offer to open up for Shaggy at the Coach House a month later (I mention this only because that is the show were we first met Lawrence). Time passed, many shows later, and a few address changes later, I moved to Huntington Beach were I happened to move in next door to a guy named Gurpreet. I invited him out to a show, soon after I asked Gurpreet if he would be interested in playing keys for our band. He fit right in and the funny thing is that our first couple shows with Gurpreet he played the sax, and keys, no guitar. It wasnt till we were recording our first EP that we discovered Gurpreet was an under cover Carlos Santana/Jimmy Page. Since then we have been on three national tours with Long Beach Shortbus, we have recorded a full length album titled "Pacific", and the OneDraw crowds continue to grow (along with our debt $$). Around August 2004 we lost two members of our band which was hard but people grow and change and we have to respect that. Mike Parker left the band for personal reasons and was replaced by an outstanding musician named Ben Brasier. We also lost Big Zandy who needed to get his life together, ("Cocaine is a hell of a drug"-Rick James). After a two year hiatus Zandy has refoined us and we are happy to have those heavy hands back on those skins. Zandy rejoined us . The two new members of our band have raised the bar for OneDraw, our live set is better than it has ever sounded. Keep posted, stay positive, life is good...Peace</p>
+
+    <script>
+    var slideIndex = 0;
+    showSlides();
+
+    function showSlides() {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      slideIndex++;
+      if (slideIndex > slides.length) {slideIndex = 1}
+      slides[slideIndex-1].style.display = "block";
+      setTimeout(showSlides, 5000); // Change image every 2 seconds
+    } 
+  </script>
+  <partial name="partial"/>
+</body>
+    
+<audio autoplay>
+    <source src="~/music/01 Everything Will Be Alright.mp3" type="audio/mpeg">
+</audio> 
+</html>      

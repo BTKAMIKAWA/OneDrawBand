@@ -1,0 +1,228 @@
+/Users/toshiro/Desktop/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.deps.json
+/Users/toshiro/Desktop/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.json
+/Users/toshiro/Desktop/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.dev.json
+/Users/toshiro/Desktop/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.Views.dll
+/Users/toshiro/Desktop/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.csprojAssemblyReference.cache
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.csproj.CoreCompileInputs.cache
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cache
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfoInputs.cache
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfo.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.input.cache
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.output.cache
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.RazorCoreGenerate.cache
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cache
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.csproj.CopyComplete
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Home.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/RiseAgain.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Discography.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/selftitled.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Pacific.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/practice.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Merchandise.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Cart.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.deps.json
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.json
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.dev.json
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.Views.dll
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.csprojAssemblyReference.cache
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.csproj.CoreCompileInputs.cache
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cache
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfoInputs.cache
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfo.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.input.cache
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.output.cache
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorCoreGenerate.cache
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Cart.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Discography.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Home.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Merchandise.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Pacific.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/practice.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/RiseAgain.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/selftitled.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cache
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cs
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/School_Assignments/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.csproj.CopyComplete
+/Users/toshiro/Desktop/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.deps.json
+/Users/toshiro/Desktop/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.json
+/Users/toshiro/Desktop/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.dev.json
+/Users/toshiro/Desktop/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.Views.dll
+/Users/toshiro/Desktop/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.csprojAssemblyReference.cache
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.csproj.CoreCompileInputs.cache
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cache
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfoInputs.cache
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfo.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.input.cache
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.output.cache
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorCoreGenerate.cache
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Cart.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Discography.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Home.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Merchandise.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Pacific.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/practice.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/RiseAgain.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/selftitled.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cache
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cs
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.csproj.CopyComplete
+/Users/toshiro/Desktop/projects/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.deps.json
+/Users/toshiro/Desktop/projects/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.json
+/Users/toshiro/Desktop/projects/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.dev.json
+/Users/toshiro/Desktop/projects/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/projects/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/projects/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.Views.dll
+/Users/toshiro/Desktop/projects/OneDraw2/bin/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.csprojAssemblyReference.cache
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.csproj.CoreCompileInputs.cache
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cache
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cs
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfoInputs.cache
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfo.cs
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.input.cache
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.output.cache
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorCoreGenerate.cache
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Discography.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Merchandise.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cache
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cs
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/OneDraw.csproj.CopyComplete
+/Users/toshiro/Desktop/projects/OneDraw2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Checkout.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/bin/Debug/netcoreapp2.1/OneDraw.deps.json
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.json
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.dev.json
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/bin/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/bin/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/bin/Debug/netcoreapp2.1/OneDraw.Views.dll
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/bin/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.csprojAssemblyReference.cache
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.csproj.CoreCompileInputs.cache
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cache
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfoInputs.cache
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfo.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.input.cache
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.output.cache
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.RazorCoreGenerate.cache
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/Razor/Views/Home/Checkout.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/Razor/Views/Home/Discography.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/Razor/Views/Home/Merchandise.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/Razor/Views/Home/partial.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cache
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cs
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/projects/OneDraw2 cjune 13/obj/Debug/netcoreapp2.1/OneDraw.csproj.CopyComplete
+/Users/toshiro/Desktop/projects/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.deps.json
+/Users/toshiro/Desktop/projects/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.json
+/Users/toshiro/Desktop/projects/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.dev.json
+/Users/toshiro/Desktop/projects/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/projects/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/projects/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.Views.dll
+/Users/toshiro/Desktop/projects/OneDraw/bin/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.csprojAssemblyReference.cache
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.csproj.CoreCompileInputs.cache
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cache
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfoInputs.cache
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfo.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.input.cache
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.output.cache
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.RazorCoreGenerate.cache
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Checkout.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Discography.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/Merchandise.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Home/partial.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cache
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cs
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Desktop/projects/OneDraw/obj/Debug/netcoreapp2.1/OneDraw.csproj.CopyComplete
+/Users/toshiro/Downloads/OneDrawBand-master/bin/Debug/netcoreapp2.1/OneDraw.deps.json
+/Users/toshiro/Downloads/OneDrawBand-master/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.json
+/Users/toshiro/Downloads/OneDrawBand-master/bin/Debug/netcoreapp2.1/OneDraw.runtimeconfig.dev.json
+/Users/toshiro/Downloads/OneDrawBand-master/bin/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Downloads/OneDrawBand-master/bin/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Downloads/OneDrawBand-master/bin/Debug/netcoreapp2.1/OneDraw.Views.dll
+/Users/toshiro/Downloads/OneDrawBand-master/bin/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.csprojAssemblyReference.cache
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.csproj.CoreCompileInputs.cache
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cache
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.RazorAssemblyInfo.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfoInputs.cache
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.AssemblyInfo.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.input.cache
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.TagHelpers.output.cache
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.RazorCoreGenerate.cache
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Checkout.g.cshtml.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Discography.g.cshtml.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Merchandise.g.cshtml.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/partial.g.cshtml.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cache
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.RazorTargetAssemblyInfo.cs
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.Views.pdb
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.dll
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.pdb
+/Users/toshiro/Downloads/OneDrawBand-master/obj/Debug/netcoreapp2.1/OneDraw.csproj.CopyComplete

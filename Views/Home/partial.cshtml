@@ -1,0 +1,57 @@
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    
+<script>
+    var shopCart = [];
+    $(document).ready(function(){
+        outputCart();
+
+        $(".product").click(function(e){
+            e.preventDefault();
+
+            var itemInfo = $(this.dataset)[0];
+            itemInfo.qty = 1;
+            var itemInCart = false;
+
+            $.each(shopCart,function(index,value){
+                if(value.id == itemInfo.id){
+                    value.qty = parseInt(value.qty) + parseInt(itemInfo.qty);
+                    itemInCart = true;
+                }
+            })
+            if(!itemInCart){
+                shopCart.push(itemInfo);
+            }
+            sessionStorage["shopCart"] = JSON.stringify(shopCart);
+            outputCart();
+            
+        })
+    
+
+        function outputCart(){
+            if(sessionStorage["shopCart"] != null){
+                shopCart = JSON.parse(sessionStorage["shopCart"].toString());
+                $('.checkout').show();
+            }  
+            var holderHTML = '';
+            var total = 0;
+            var itemCount = 0;
+            
+            $.each(shopCart,function(index,value){
+                var stotal = (value.qty * value.price);
+                total += stotal;
+                itemCount += parseInt(value.qty);
+                holderHTML +=  '<tr><td>' + value.id + '</td><td>' + value.name + '</td><td>' + formatMoney(value.price) + '</td><td>' + value.qty + '</td><td class="text-right">' + formatMoney(stotal) + '</td></tr>' ;
+            })
+            holderHTML += '<tr><td colspan="4" class="text-right">Total</td><td class="text-right">' + formatMoney(total) + '</td></tr>';
+            $('#output').html(holderHTML);
+            $('#total').html(formatMoney(total));
+            $('.items').html(itemCount);
+        }
+
+        function formatMoney(n){
+            return '$' + (n/100).toFixed(2);
+        }
+    })
+</script>       

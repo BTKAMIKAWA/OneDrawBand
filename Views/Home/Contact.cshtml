@@ -1,0 +1,45 @@
+ @using OneDraw.Models
+ @model Email
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Contact</title>
+</head>
+<body>
+  <div style="text-align: center"><img style="width: 1000px" src="~/images/0.png"/></div>
+  <div class="container"><br>
+    <div class="row test">
+      <div class="col-md-4" style="margin-left: 38px">
+        <p><span class="glyphicon glyphicon-map-marker"></span>Long Beach, California</p>
+        <p><span class="glyphicon glyphicon-phone"></span>Phone:  (562) 234-1106</p>
+        <p><span class="glyphicon glyphicon-envelope"></span>Email:  OneDrawLB@gmail.com</p>
+      </div>
+      <div style="width: 1000px text-align: center">
+        <form action="/send" method="post">
+            <div class="col-md-12">
+              <div class="row">
+                  <div class="col-sm-6 form-group">
+                  <input class="form-control" id="name" name="name" runat="server" placeholder="Name" type="text" required>
+                  </div>
+                  <div class="col-sm-6 form-group">
+                  <input class="form-control" id="email" name="email" runat="server" placeholder="Email" type="email" required>
+                  </div>
+              </div>
+              <textarea class="form-control" id="comments" name="comments" runat="server" placeholder="Comment" rows="15" cols="85"></textarea><br><br>
+              <div class="row">
+                  <div class="col-md-12 form-group">
+                  <button class="btn btn-primary" style="float: right" id="btnSubmit" runat="server" type="submit" onclick="btnSubmit_Click"/>Send</button>
+                  </div>
+              </div>
+            </div>
+        </form>
+      </div>          
+    </div>
+  </div> 
+  <partial name="partial"/>
+</body>
+</html>

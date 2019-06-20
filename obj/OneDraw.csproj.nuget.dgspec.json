@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/toshiro/Downloads/OneDrawBand-master/OneDraw.csproj": {}
+  },
+  "projects": {
+    "/Users/toshiro/Downloads/OneDrawBand-master/OneDraw.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/toshiro/Downloads/OneDrawBand-master/OneDraw.csproj",
+        "projectName": "OneDraw",
+        "projectPath": "/Users/toshiro/Downloads/OneDrawBand-master/OneDraw.csproj",
+        "packagesPath": "/Users/toshiro/.nuget/packages/",
+        "outputPath": "/Users/toshiro/Downloads/OneDrawBand-master/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/toshiro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

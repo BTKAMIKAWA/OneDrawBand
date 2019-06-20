@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Checkout</title>
+</head>
+
+<body>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input type="hidden" name="cmd" value="_cart">
+        <input type="hidden" name="upload" value="1">
+        <input type="hidden" name="business" value="seller@dezignerfotos.com">
+
+        
+
+        <table class="table table-hover">
+            <thead class="thead-inverse">
+                <tr>
+                    <th class="title">Id</th>
+                    <th class="title">Item</th>
+                    <th class="title">Price</th>
+                    <th class="title">Qty</th>
+                    <th class="text-right title">Sub Total</th>
+                </tr>
+            </thead>
+            <tbody id="output">    
+            </tbody>
+           
+        </table>  
+        <input class="button" type="submit" value="PayPal">
+    </form>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script>
+        var shopCart = [];
+        $(document).ready(function(){
+            outputCart();
+            $('#output').on('change keyup','.dynaqua', function(){
+                var itemInfo = $(this.dataset)[0];
+                var itemInCart = false;
+                console.log(shopCart);
+                var qty = $(this).val();
+
+                if(qty<0){
+                    qty = "0"; 
+                    $(this).val(0);
+                }
+
+                $.each(shopCart, function(index,value){
+                    if(value.id == itemInfo.id){
+                        shopCart[index].qty = qty;
+                        itemInCart = true;
+                    }
+                })
+
+                sessionStorage["shopCart"] = JSON.stringify(shopCart);
+                outputCart();  
+
+                console.log(shopCart);
+                console.log(sessionStorage["shopCart"]);
+            })            
+            
+            function outputCart(){
+               
+                if(sessionStorage["shopCart"] != null){
+                    shopCart = JSON.parse(sessionStorage["shopCart"].toString());  
+                }  
+                var holderHTML = '';
+                var total = 0;
+                var itemCount = 0;
+                
+                $.each(shopCart,function(index,value){
+                    var stotal = value.qty * value.price;
+                    var a = (index + 1);
+                    total += stotal;
+                    itemCount += parseInt(value.qty);
+                    holderHTML += '<tr><td>' + value.id + '</td><td><input type="hidden" name="item_name_' + a + '" value="' + value.name + '">' + value.name + '</td><td><input type="hidden" name="amount_' + a + '" value="' + formatMoney(value.price) + '"> $' + formatMoney(value.price) + ' </td><td><input type="number" class="dynaqua" name="quantity_' + a + '" value="' + value.qty + '"data-id="' + value.id + '"></td><td class="text-right"> $' + formatMoney(stotal) + '</td></tr>';
+
+                })
+                holderHTML += '<tr><td colspan="4" class="text-right">Total</td><td class="text-right">$' + formatMoney(total) + '</td></tr>';
+                $('#output').html(holderHTML);
+
+            }
+
+            function formatMoney(n){
+                return (n/100).toFixed(2);
+            }
+        })
+    </script>
+ 
+</body>
+</html>
